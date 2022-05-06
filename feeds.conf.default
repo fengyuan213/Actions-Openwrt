@@ -1,0 +1,19 @@
+
+src-git packages https://github.com/Lienol/openwrt-packages.git;21.02
+src-git luci https://github.com/Lienol/openwrt-luci.git;21.02
+src-git routing https://git.openwrt.org/feed/routing.git
+src-git telephony https://git.openwrt.org/feed/telephony.git
+#rc-git video https://github.com/openwrt/video.git
+src-git targets https://github.com/openwrt/targets.git
+#src-git oldpackages http://git.openwrt.org/packages.git
+#src-link custom /usr/src/openwrt/custom-feed
+
+src-git other https://github.com/Lienol/openwrt-package.git;other
+
+src-git kenzo https://github.com/kenzok8/openwrt-packages.git
+src-git small https://github.com/kenzok8/small.git
+
+
+src-git helloworld https://github.com/fw876/helloworld.git
+src-git passwall https://github.com/xiaorouji/openwrt-passwall.git
+src-git openwrtapps https://github.com/jjm2473/openwrt-apps.git
