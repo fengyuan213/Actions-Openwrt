@@ -22,6 +22,7 @@ on:
 # Updates everyday
 jobs:
   check:
+    permissions: write-all
     runs-on: ubuntu-latest
 
     steps:
